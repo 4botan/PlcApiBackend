@@ -1,0 +1,6 @@
+@PlcApiBackend_HostAddress = http://localhost:5188
+
+GET {{PlcApiBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
